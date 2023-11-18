@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/addf67ba685147e196d4e3ace27d851a/artifacts
+end_time: 1700298022166
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: addf67ba685147e196d4e3ace27d851a
+run_name: capricious-ape-498
+run_uuid: addf67ba685147e196d4e3ace27d851a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298014770
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/88fb4430dd5a4dfbbfc9405785a2e502/artifacts
+end_time: 1700298100630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 88fb4430dd5a4dfbbfc9405785a2e502
+run_name: peaceful-sloth-381
+run_uuid: 88fb4430dd5a4dfbbfc9405785a2e502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298096568
+status: 3
+tags: []
+user_id: admin

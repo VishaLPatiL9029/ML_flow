@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/3acad8a99ae147f09d23980ca004b536/artifacts
+end_time: 1700298063695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3acad8a99ae147f09d23980ca004b536
+run_name: abundant-donkey-714
+run_uuid: 3acad8a99ae147f09d23980ca004b536
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298059153
+status: 3
+tags: []
+user_id: admin

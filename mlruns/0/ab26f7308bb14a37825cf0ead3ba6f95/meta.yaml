@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/ab26f7308bb14a37825cf0ead3ba6f95/artifacts
+end_time: 1700298152697
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab26f7308bb14a37825cf0ead3ba6f95
+run_name: enchanting-boar-120
+run_uuid: ab26f7308bb14a37825cf0ead3ba6f95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298147455
+status: 3
+tags: []
+user_id: admin

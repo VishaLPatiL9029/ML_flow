@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/b38cae89962448ceb271bea8f04ae9d1/artifacts
+end_time: 1700298110079
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b38cae89962448ceb271bea8f04ae9d1
+run_name: monumental-tern-321
+run_uuid: b38cae89962448ceb271bea8f04ae9d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298105102
+status: 3
+tags: []
+user_id: admin

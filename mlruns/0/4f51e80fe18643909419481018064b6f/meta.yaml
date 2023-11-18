@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/4f51e80fe18643909419481018064b6f/artifacts
+end_time: 1700298040039
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4f51e80fe18643909419481018064b6f
+run_name: bright-duck-991
+run_uuid: 4f51e80fe18643909419481018064b6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298035938
+status: 3
+tags: []
+user_id: admin

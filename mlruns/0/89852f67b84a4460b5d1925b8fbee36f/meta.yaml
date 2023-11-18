@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/89852f67b84a4460b5d1925b8fbee36f/artifacts
+end_time: 1700297982486
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89852f67b84a4460b5d1925b8fbee36f
+run_name: exultant-shoat-759
+run_uuid: 89852f67b84a4460b5d1925b8fbee36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700297972102
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/89c5c25b94614a2bbac3f8435798fb2a/artifacts
+end_time: 1700298142997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 89c5c25b94614a2bbac3f8435798fb2a
+run_name: chill-wasp-35
+run_uuid: 89c5c25b94614a2bbac3f8435798fb2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298138933
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/8e9535a9e19640918bf59c6e8a9b07c1/artifacts
+end_time: 1700298073636
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e9535a9e19640918bf59c6e8a9b07c1
+run_name: capricious-stoat-890
+run_uuid: 8e9535a9e19640918bf59c6e8a9b07c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298068222
+status: 3
+tags: []
+user_id: admin

@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/dc3639e1a69d4b1cb81742fe1052e621/artifacts
+end_time: 1700298031656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc3639e1a69d4b1cb81742fe1052e621
+run_name: shivering-bug-60
+run_uuid: dc3639e1a69d4b1cb81742fe1052e621
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298027307
+status: 3
+tags: []
+user_id: admin

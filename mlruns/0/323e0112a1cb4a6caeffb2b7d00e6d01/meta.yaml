@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/My_Projects/MLFlow/mlruns/0/323e0112a1cb4a6caeffb2b7d00e6d01/artifacts
+end_time: 1700298134525
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 323e0112a1cb4a6caeffb2b7d00e6d01
+run_name: popular-shoat-509
+run_uuid: 323e0112a1cb4a6caeffb2b7d00e6d01
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700298129807
+status: 3
+tags: []
+user_id: admin
